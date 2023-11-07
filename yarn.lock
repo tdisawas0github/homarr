@@ -29,9 +29,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@auth/core@npm:0.12.0":
-  version: 0.12.0
-  resolution: "@auth/core@npm:0.12.0"
+"@auth/core@npm:0.18.0":
+  version: 0.18.0
+  resolution: "@auth/core@npm:0.18.0"
   dependencies:
     "@panva/hkdf": ^1.0.4
     cookie: 0.5.0
@@ -44,16 +44,16 @@ __metadata:
   peerDependenciesMeta:
     nodemailer:
       optional: true
-  checksum: 21933df18b691d2b0cca0de86fbed256ed01543733b33a7cfa948a993653ede13992eb0fca6bf693dd03ecd52faff3cf25edcc043ab8976e009e98a629751ba5
+  checksum: f0acc784661b6244f4a94e0a1494d2dd56af92b44cb49012f5b7dec9fe4674b5986508e0ab43f91296df0212ea5f0f56e8f317dd27037d72c5408c1bc77eea42
   languageName: node
   linkType: hard
 
 "@auth/drizzle-adapter@npm:^0.3.2":
-  version: 0.3.2
-  resolution: "@auth/drizzle-adapter@npm:0.3.2"
+  version: 0.3.5
+  resolution: "@auth/drizzle-adapter@npm:0.3.5"
   dependencies:
-    "@auth/core": 0.12.0
-  checksum: bb294a86e492d53d8fe7151eca80edcd5a20b533236e36ba5b537c811fd8310e6c11b1ed7337c5be451f0ca60f3bfae7419a2758a7fe90aa82dcba41d716519b
+    "@auth/core": 0.18.0
+  checksum: c2b5794fbd3b9eabdd4058fe913b92200e9ea6486b43e951c8541ffa9fea6d268ba3948c6662007968288a7c449341685bf2080d82f37dfeb9993f4bbdd8d714
   languageName: node
   linkType: hard
 
